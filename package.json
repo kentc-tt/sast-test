@@ -1,0 +1,11 @@
+{
+  "name": "sast-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/Setter/sast-test.git",
+  "author": "Kent Chau <kent@thumbtack.com>",
+  "license": "MIT"
+}
